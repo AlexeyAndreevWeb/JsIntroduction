@@ -11,3 +11,9 @@ console.log(temperatureConversionCF(temperatureC1));
 console.log(temperatureConversionCF(temperatureC2));
 console.log(temperatureConversionCF(temperatureC3));
 console.log(temperatureConversionCF(temperatureC4));
+
+const name = "Alexey";
+
+const admim = name;
+
+console.log(admim);
